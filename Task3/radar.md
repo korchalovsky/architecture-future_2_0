@@ -1,6 +1,6 @@
 | Adopt        | Trial | Assess   | Hold            |
 |--------------|-------|----------|-----------------|
-| Apache Camel |       | DataMesh | Microsoft SQL   |
+| ИИ-сервисы   |       | DataMesh | Microsoft SQL   |
 | Golang       |       |          | Power BI        |
 | Java         |       |          | Power Builder   |
-| ИИ-сервисы   |       |          |                 |
+|              |       |          | Apache Camel    |
